@@ -7,7 +7,7 @@ body {
 
 #content {
 	position: relative;
-	top: 30px;
+	top: 60px;
 }
 
 nav {
@@ -15,6 +15,7 @@ nav {
 	height: 30px;
 	width: 650px;
 	position: fixed;
+	top: 30px;
 	display: flex;
 	z-index: 1;
 	margin: auto;
@@ -59,7 +60,7 @@ h3 {
 #maincontent {
 	background-color: #CEEFCE;
 	width: 650px;
-	height: 90vh;
+	height: 86vh;
 	overflow: auto;
 }
 
@@ -75,7 +76,7 @@ h3 {
 .sidebarcontent {
 	background-color: #389E89;
 	width: 310px;
-	height: 38vh;
+	height: 37vh;
 	overflow: auto;
 	margin-top: 3.5vh;
 }
